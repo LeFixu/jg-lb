@@ -1,0 +1,16 @@
+{
+  "name": "jg-lb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "describe": "^1.2.0",
+    "mocha": "^10.2.0"
+  }
+}
