@@ -1,4 +1,10 @@
-# Exercise 1
+## Stag Party Exercises
+
+Prerequisite:
+- NodeJS of any version
+- Lots of alcohol
+
+## Exercise 1
 
 Use the preexisting file `ex1.mjs`.
 
@@ -16,7 +22,7 @@ For example, if the input is 5, the output should be:
 
 ```
 
-# Exercise 2
+## Exercise 2
 
 Use the preexisting file `ex2.mjs`.
 
@@ -36,5 +42,5 @@ For example, if the input is 5, the output should be:
 
 ```
 
-# Grading
+## Grading
 Execute `npm test` to get the results
